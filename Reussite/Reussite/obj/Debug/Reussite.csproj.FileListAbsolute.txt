@@ -1,0 +1,7 @@
+D:\Documents\Projets C#\Reussite\Reussite\bin\Debug\Reussite.exe.config
+D:\Documents\Projets C#\Reussite\Reussite\bin\Debug\Reussite.exe
+D:\Documents\Projets C#\Reussite\Reussite\bin\Debug\Reussite.pdb
+D:\Documents\Projets C#\Reussite\Reussite\obj\Debug\Reussite.csprojAssemblyReference.cache
+D:\Documents\Projets C#\Reussite\Reussite\obj\Debug\Reussite.csproj.CoreCompileInputs.cache
+D:\Documents\Projets C#\Reussite\Reussite\obj\Debug\Reussite.exe
+D:\Documents\Projets C#\Reussite\Reussite\obj\Debug\Reussite.pdb
